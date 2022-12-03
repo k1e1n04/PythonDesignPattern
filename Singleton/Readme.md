@@ -1,4 +1,4 @@
-# SingletonPattern
+# Singleton
 ## 概要
 SingletonPtternはオブジェクト指向のプログラミングにおけるデザインパターンの一つ。  
 そのクラスのインスタンスが一つしか作られないことを保証するパターン。  
