@@ -13,4 +13,6 @@
 オブジェクトの状態（state）を表現するために用いられる。  
 [こちら](./State/)のディレクトリを参照。
 
-## Factory
+## Abstract Factory
+オブジェクトの生成に関するパターン。
+[こちら](./AbstractFactory)のディレクトリを参照。
