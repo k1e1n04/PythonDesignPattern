@@ -39,4 +39,4 @@ Subject o-- Observer
 - 数をたくさん生成するオブジェクトを観察者が観察して、その値を表示する仕組み
 - 表示の方法は、観察者によって異なる。
 - DigitalObserverは、値を数字で表示する。
-- KanjiObserverは、値を簡易グラフで表示する。
+- GraphObserverは、値を簡易グラフで表示する。
